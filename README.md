@@ -5,6 +5,12 @@ easy to add as a submodule. I tried to use a similar format to theirs.
 
 I hope you find these parts helpful!
 
+Just:
+
+```
+git submodule add https://github.com/KenwoodFox/kenwoodfox-kicad-libraries
+```
+
 Just like the espressif library, if you want 3D models, you'll need to
 open `Preferences` and `Configure Paths` then add the following enviorment variable:
 
