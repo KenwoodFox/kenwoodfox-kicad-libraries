@@ -28,3 +28,7 @@ preflight:
     - name: "KENWOODFOX_3DMODELS" # 3D models for KenwoodFox Library
       command: "echo 'Hardware/Board/Libraries/kenwoodfox-kicad-libraries/3d'"
 ```
+
+# Projects using this lib:
+
+https://github.com/KenwoodFox/APRN-pi
