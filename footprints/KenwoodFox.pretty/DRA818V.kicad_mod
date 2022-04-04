@@ -46,7 +46,7 @@
   (pad "16" smd roundrect (at -10.16 -4.445 180) (size 2.286 1.524) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp e857610b-4434-4144-b04e-43c1ebdc5ceb))
   (pad "17" smd roundrect (at -10.16 -8.89 180) (size 2.286 1.524) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp bfc0aadc-38cf-466e-a642-68fdc3138c78))
   (pad "18" smd roundrect (at -10.16 -13.335 180) (size 2.286 1.524) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp c01d25cd-f4bb-4ef3-b5ea-533a2a4ddb2b))
-  (model "${KIPRJMOD}/Libraries/kenwoodfox-kicad-libraries/3d/DRA818V.wrl"
+  (model "${KENWOODFOX_3DMODELS}/DRA818V.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
