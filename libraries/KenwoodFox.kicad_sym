@@ -20,7 +20,7 @@
     )
     (symbol "DRA818V_0_1"
       (rectangle (start -6.35 2.54) (end 6.35 -16.51)
-        (stroke (width 0) (type default) (color 0 0 0 0))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
         (fill (type background))
       )
     )
@@ -131,7 +131,7 @@
     )
     (symbol "MC74LVXC3245DTG_1_1"
       (rectangle (start -10.16 13.97) (end 10.16 -13.97)
-        (stroke (width 0) (type default) (color 0 0 0 0))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
         (fill (type background))
       )
       (pin power_in line (at -3.81 16.51 270) (length 2.54)
