@@ -31,4 +31,5 @@ preflight:
 
 # Projects using this lib:
 
-https://github.com/KenwoodFox/APRN-pi
+https://github.com/KenwoodFox/APRN-pi  
+https://github.com/Kitsune-Robotics/kw1fox-1  
