@@ -1230,7 +1230,7 @@
     (property "Value" "SN74HC595" (id 1) (at 7.62 -17.78 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "KenwoodFox:SN74HC164" (id 2) (at 0 0 0)
+    (property "Footprint" "KenwoodFox:SN74HC595" (id 2) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0)
