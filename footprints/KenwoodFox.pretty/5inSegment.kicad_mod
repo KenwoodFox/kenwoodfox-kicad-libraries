@@ -64,4 +64,9 @@
   (pad "8" thru_hole oval (at -0.07 69.04 270) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp 60767a0e-354d-480f-97e9-ce3f4eeea384))
   (pad "9" thru_hole oval (at 5.01 69.04 270) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp d35d046b-1783-4166-9cf1-ee41825eb034))
   (pad "10" thru_hole rect (at 10.09 69.04 270) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp f51a57c3-0b78-4e83-a6bd-87427512d2ae))
+  (model "${KENWOODFOX_3DMODELS}/5InSegment.wrl"
+    (offset (xyz 0 0 -10.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )
