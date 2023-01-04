@@ -33,3 +33,7 @@ preflight:
 
 https://github.com/KenwoodFox/APRN-pi  
 https://github.com/Kitsune-Robotics/kw1fox-1  
+https://github.com/Kitsune-Robotics/kw1fox-2  
+https://github.com/FRC-1721/DoomsdayClock  
+https://github.com/FRC-1721/AccidentCounter  
+https://github.com/KenwoodFox/EG-310-InvertedPendulum  
