@@ -2,3 +2,5 @@
 *.FCStd1
 *.bak
 
+# Autosave
+*.*~
