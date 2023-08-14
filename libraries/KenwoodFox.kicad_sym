@@ -928,7 +928,7 @@
     (property "Footprint" "KenwoodFox:ESP32S_HiLetgo" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 0 0 0)
+    (property "Datasheet" "https://forum.fritzing.org/t/esp32s-hiletgo-dev-boad-with-pinout-template/5357" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "ki_keywords" "esp32, hiletgo" (at 0 0 0)
