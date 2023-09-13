@@ -54,8 +54,8 @@
   )
   (pad "1" thru_hole circle (at -11.43 -3.5) (size 2 2) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp eb7a1081-63e5-4d67-b66a-cc5bfa1c9663))
   (pad "2" thru_hole circle (at -11.43 3.5) (size 2 2) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp 79d66fdd-c295-4ed1-a19d-7459fa54eadb))
-  (pad "3" thru_hole circle (at 11.43 -3.5) (size 2 2) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp def06f87-572a-4fa0-8945-a3edca9b56ed))
-  (pad "4" thru_hole circle (at 11.43 3.5) (size 2 2) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp a180950d-8a1c-491b-a998-eb7aaad3b10c))
+  (pad "3" thru_hole circle (at 11.43 3.5) (size 2 2) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp a180950d-8a1c-491b-a998-eb7aaad3b10c))
+  (pad "4" thru_hole circle (at 11.43 -3.5) (size 2 2) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp def06f87-572a-4fa0-8945-a3edca9b56ed))
   (model "${KENWOODFOX_3DMODELS}/x27168.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
