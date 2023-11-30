@@ -63,9 +63,9 @@
   (pad "S1" thru_hole oval (at -4.32 1.075) (size 1 1.6) (drill oval 0.6 1.2) (layers "*.Cu" "*.Mask") (tstamp 30e55750-5283-490a-8687-4be74b145ce7))
   (pad "S1" thru_hole oval (at 4.32 -3.105) (size 1 2.1) (drill oval 0.6 1.7) (layers "*.Cu" "*.Mask") (tstamp 86ef7f00-b092-47ac-8a4a-9d36df529db6))
   (pad "S1" thru_hole oval (at 4.32 1.075) (size 1 1.6) (drill oval 0.6 1.2) (layers "*.Cu" "*.Mask") (tstamp 9384f131-71cb-498f-9829-60301a016f43))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_XKB_U262-16XN-4BVC11.wrl"
-    (offset (xyz 0 0 0))
+  (model "${KENWOODFOX_3DMODELS}/USBC.STEP"
+    (offset (xyz 0 3.6 1.5))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz 0 -180 180))
   )
 )
