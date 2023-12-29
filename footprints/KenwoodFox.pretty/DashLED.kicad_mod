@@ -20,7 +20,7 @@
   (pad "1" thru_hole rect (at -1.27 0) (size 1.8 1.8) (drill 0.9) (layers "*.Cu" "*.Mask") (tstamp babd25b5-7807-4928-8cfc-09685bdc1e91))
   (pad "2" thru_hole circle (at 1.27 0) (size 1.8 1.8) (drill 0.9) (layers "*.Cu" "*.Mask") (tstamp 98862e62-4fff-44d1-85f8-23bb111b8c15))
   (model "${KENWOODFOX_3DMODELS}/DashLED.step"
-    (offset (xyz 0 10.2 3))
+    (offset (xyz 0 7 1.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 180))
   )
