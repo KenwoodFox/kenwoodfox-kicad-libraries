@@ -1,0 +1,121 @@
+(footprint "FingertechSwitch"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -3.5 -7.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "e571eaf2-71a5-4609-a1fe-28565b71c7ff")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left)
+		)
+	)
+	(property "Value" "SW"
+		(at 0 -0.7 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "beee94d8-cef8-4e05-964b-e2551d7bcb46")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.fingertechrobotics.com/proddetail.php?prod=ft-mini-switch"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ae2e6ddd-6b48-405e-8ae5-41e16977dd2e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "126ed942-8066-4c24-86bb-2a6bccc58370")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole board_only exclude_from_pos_files exclude_from_bom)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_rect
+		(start -3.299999 -6.499999)
+		(end 3.3 6.499999)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "fdb08e1c-2571-42ca-b355-22de96d07339")
+	)
+	(fp_rect
+		(start -2.5 6.499999)
+		(end 2.5 8.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill hatch)
+		(layer "F.SilkS")
+		(uuid "d0b2fe9c-494e-4f67-a687-69b07c882a97")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0.8 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "af04b0e9-7dbd-4576-b4b7-3b603c5139a7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole oval
+		(at 0 3)
+		(size 5.5 2.75)
+		(drill oval 4.25 1.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "872078b7-3b00-40e4-910b-bfc37e69c42d")
+	)
+	(pad "2" thru_hole oval
+		(at 0 -2.9)
+		(size 5.5 2.75)
+		(drill oval 4.25 1.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "7ccd3a34-d737-457f-8240-5fb126c61a30")
+	)
+	(embedded_fonts no)
+	(model "/home/joe/git/KitsuneRobotics/kenwoodfox-kicad-libraries/3d/FingertechSwitch.step"
+		(offset
+			(xyz 0 0 6.6)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 90)
+		)
+	)
+)
